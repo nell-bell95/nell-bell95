@@ -29,10 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg' title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VS" width="40" height="40"/>&nbsp;
   <div>
+  <h2>What I do</h2>
+   <p>I am passionate about Machine Learning and constant self-improvement. Using this Github as a space for my projects & experiments💫 </p>
 <!--
 **nell-bell95/nell-bell95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
